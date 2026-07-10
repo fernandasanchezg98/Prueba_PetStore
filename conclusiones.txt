@@ -1,0 +1,22 @@
+Conclusiones del ejercicio
+
+Durante el desarrollo del reto se logró implementar un framework de automatización API utilizando Cypress y Cucumber aplicando buenas prácticas de desarrollo. 
+
+Se realizó la separación de responsabilidades mediante una estructura organizada:
+
+- Features para definición de escenarios.
+- Pages para consumo de servicios de la API.
+- Step Definitions para la lógica de automatización.
+- Assertions para validaciones que se van a reutilizar.
+- Constants para evitar el uso de datos quemados.
+
+
+Se automatizaron los flujos principales del módulo usuario:
+
+- Crear usuario
+- Consultar usuario
+- Actualizar usuario
+- Eliminar usuario
+- Consultar usuario después de su actualización
+
+Finalmente se configuró la generación de reportes permitiendo visualizar los resultados obtenidos durante la ejecución.
