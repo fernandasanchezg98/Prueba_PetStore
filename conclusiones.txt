@@ -21,4 +21,3 @@ Se automatizaron los flujos principales del módulo usuario:
 
 Finalmente se configuró la generación de reportes permitiendo visualizar los resultados obtenidos durante la ejecución.
 
-url repositorio: https://github.com/fernandasanchezg98/Prueba_PetStore.git
