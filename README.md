@@ -73,6 +73,11 @@ Ejemplo:
 - Mensajes esperados
 
 # Ejecución de pruebas 
+
+Para ejecutar las pruebas primero se ejecuta el comando:
+npm install 
+
+
 Para ejecutar las pruebas se utiliza el siguiente comando:
 npx cypress open
 
